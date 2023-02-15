@@ -1,0 +1,21 @@
+ERRORS = [
+    "Limit exceeded from symbols table",
+    "Function declaration should be followed by an identifier",
+    "( was expected",
+    "{ was expected",
+    "Identifier was not declared",
+    "A function or a constant cannot be reassigned",
+    "= was expected",
+    "Missing closing parenthesis",
+    "Previous factor cannot be followed by current symbol",
+    "Invoke must be followed by an identifier",
+    "A const or var cannot be invoked",
+    "if condition must be inside parenthesis",
+    "Logic operator was expected",
+    ") was expected",
+    "} was expected",
+    "else was expected",
+    ": was expected",
+    "datatype was expected",
+    "; was expected"
+]

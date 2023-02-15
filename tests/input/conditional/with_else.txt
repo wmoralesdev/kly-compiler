@@ -1,0 +1,6 @@
+if (invoke getnumbers() == b) {
+
+}
+else {
+
+}

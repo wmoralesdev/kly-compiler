@@ -1,0 +1,7 @@
+function getnumber(num_01: int, num_02: int): int {
+
+}
+
+function main(): int {
+
+}
